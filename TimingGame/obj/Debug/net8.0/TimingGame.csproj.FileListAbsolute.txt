@@ -1,0 +1,14 @@
+/Users/developer/Projects/timing_game/TimingGame/bin/Debug/net8.0/TimingGame
+/Users/developer/Projects/timing_game/TimingGame/bin/Debug/net8.0/TimingGame.deps.json
+/Users/developer/Projects/timing_game/TimingGame/bin/Debug/net8.0/TimingGame.runtimeconfig.json
+/Users/developer/Projects/timing_game/TimingGame/bin/Debug/net8.0/TimingGame.dll
+/Users/developer/Projects/timing_game/TimingGame/bin/Debug/net8.0/TimingGame.pdb
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.AssemblyInfoInputs.cache
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.AssemblyInfo.cs
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.csproj.CoreCompileInputs.cache
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.dll
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/refint/TimingGame.dll
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.pdb
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/TimingGame.genruntimeconfig.cache
+/Users/developer/Projects/timing_game/TimingGame/obj/Debug/net8.0/ref/TimingGame.dll
